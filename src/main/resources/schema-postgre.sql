@@ -1,0 +1,1 @@
+CREATE TABLE Aposta(id serial PRIMARY KEY, email VARCHAR(320) NOT NULL, numerosSorteados VARCHAR(30), criacao DATE)
